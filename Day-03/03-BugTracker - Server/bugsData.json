@@ -1,0 +1,32 @@
+{
+  "bugs": [
+    {
+      "id": 3,
+      "name": "server communication failure",
+      "isClosed": false,
+      "category": "client",
+      "createdAt": "2015-09-20T03:56:26.384Z"
+    },
+    {
+      "id": 4,
+      "name": "user authentication error",
+      "isClosed": false,
+      "category": "client",
+      "createdAt": "2015-09-20T03:36:26.384Z"
+    },
+    {
+      "name": "data parsing fails",
+      "isClosed": false,
+      "category": "server",
+      "createdAt": "2015-09-20T02:30:26.384Z",
+      "id": 5
+    },
+    {
+      "name": "$http is not working",
+      "isClosed": true,
+      "category": "client",
+      "createdAt": "2015-09-20T09:32:47.184Z",
+      "id": 6
+    }
+  ]
+}
